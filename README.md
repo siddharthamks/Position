@@ -6,3 +6,6 @@ Improved saving &amp; loading locations
 * Reduced everything to 1 line and made it include.
 #### v1.0
 * Initial Release by Shadow (https://forum.sa-mp.com/showthread.php?t=153165)
+
+### Download
+[Click Here](https://github.com/isiddharthasharma/Location/releases)
